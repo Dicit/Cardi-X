@@ -1,4 +1,4 @@
-# Cardi-X
+# Electromyography(EMG)
 void setup() {
 // initialize the serial communication:
 Serial.begin(9600);
